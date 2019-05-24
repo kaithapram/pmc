@@ -1,0 +1,31 @@
+title: Soluciones integrales para tu oficina
+email: your-email@domain.com
+description: Todo el material y suministros para la oficina que puedas necesitar, lo encontrarás en nuestra web. Mobiliario para la oficina, destructoras de papel, equipos multifunción, cartuchos de tinta y tóners, pizarras... Todo lo que necesites para tu inspiración y tu trabajo. Visítanos!
+
+baseurl: "/"
+url: http://keralahost.in/pmc
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Soluciones integrales para tu oficina
+
+date: 2019-05-24 15:33:04 +0000
+
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/pmc/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: pmc
